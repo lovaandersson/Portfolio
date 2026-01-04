@@ -29,3 +29,16 @@ h2 {
 .hero {
   border: 2px solid #000;
 }
+
+.project img {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin-top: 12px;
+  border-radius: 4px;
+}
+
+.hero img {
+  max-width: 800px;   /* gör Jetson större */
+  border: 3px solid #000;  /* markerar hero-projektet */
+}
