@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 40px;
+  background: #f7f7f7;
+  color: #111;
+}
+
+header {
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+h2 {
+  margin-bottom: 24px;
+}
+
+.project {
+  background: white;
+  padding: 24px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+
+.hero {
+  border: 2px solid #000;
+}
